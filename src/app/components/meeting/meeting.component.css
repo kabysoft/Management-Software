@@ -1,0 +1,11 @@
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #055160 !important;
+}
+
+.navbar-dark .navbar-brand {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+
